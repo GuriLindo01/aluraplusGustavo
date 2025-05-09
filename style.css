@@ -40,14 +40,14 @@ body{
 
 .container__titulo{
     font-size: 28px;
-    font-weight: 700
+    font-weight: 700;
 }
 
 .container__imagem{
     margin: 1em 0 2em 0;
 }
 
-.container.botao{
+.container__botao{
     background-color: var(--botao-azul);
     border-radius: 5px;
     padding: 1em;
