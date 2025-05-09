@@ -34,7 +34,7 @@ body{
     grid-template-columns: 50% 50%;
 }
 
-.container_caixa{
+.container__caixa{
     margin: 0 6em;
 }
 
